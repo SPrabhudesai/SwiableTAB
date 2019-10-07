@@ -1,0 +1,6 @@
+framework module Pods_Shailesh_TestTests {
+  umbrella header "Pods-Shailesh TestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
